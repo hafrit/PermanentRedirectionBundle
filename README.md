@@ -1,5 +1,7 @@
 # PermanentRedirectionBundle
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/4ca07fc1-6f79-485d-bcc0-6bb4eb421b88/mini.png)](https://insight.sensiolabs.com/projects/4ca07fc1-6f79-485d-bcc0-6bb4eb421b88)
+
+[![Total Downloads](https://poser.pugx.org/hafrit/permanent-redirection-bundle/downloads)](https://packagist.org/packages/hafrit/permanent-redirection-bundle)
+
 This bundle enable you to create infinite number of redirection without using code.
 - User bookmark a page of your site that does't exist anymore so he will have a beautiful 404 page.
 - A link sent into an old mailing campaign and you want to redirect it instead of using controller redirection you can just configure your redirection.
