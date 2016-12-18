@@ -10,7 +10,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"hafrit\\PermanentRedirectionBundle\\": ""}
+        "psr-0": {"hafrit\\PermanentRedirectionBundle": ""}
     },
     "require": {
         "php": ">=5.3.9",
