@@ -9,12 +9,11 @@
             "homepage": "http://hafrit.github.io"
         }
     ],
-    "minimum-stability": "dev-master",
     "autoload": {
         "psr-4": {"hafrit\\PermanentRedirectionBundle\\": "src/hafrit"}
     },
     "require": {
         "php": ">=5.3.9",
-        "symfony/symfony": "2.8.*"
+        "symfony/symfony": "~2.8.*|~3.*"
     }
 }
