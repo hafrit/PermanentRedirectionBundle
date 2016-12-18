@@ -1,0 +1,8 @@
+services:
+    app.route_listener:
+        class: hafrit\PermanentRedirectionBundle\Listeners\RouteListener
+        arguments:
+            - @service_container
+            - @router
+        tags:
+            - { name: kernel.event_listener, event: kernel.controller, method: onKernelController }
