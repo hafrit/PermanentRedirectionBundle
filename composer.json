@@ -1,7 +1,7 @@
 {
     "name": "hafrit/permanent-redirection-bundle",
-    "license": "MIT",
     "description": "A symfony bundle that enable you to create redirections into config.yml file.",
+    "keywords": ["hafrit", "redirection", "redirect", "permanent", "bundle", "302", "301"],
     "authors": [
         {
             "name": "hafrit",
@@ -9,6 +9,7 @@
             "homepage": "http://hafrit.github.io"
         }
     ],
+    "license": "MIT",
     "autoload": {
         "psr-0": {"hafrit\\PermanentRedirectionBundle": ""}
     },
