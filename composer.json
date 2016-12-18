@@ -1,5 +1,5 @@
 {
-    "name": "hafrit/PermanentRedirectionBundle",
+    "name": "hafrit/permanent-redirection-bundle",
     "license": "MIT",
     "description": "A symfony bundle that enable you to create redirections into config.yml file.",
     "authors": [
