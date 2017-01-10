@@ -55,7 +55,7 @@ hafrit_permanent_redirection:
         .
         .
         .
-        - { source: "source_route_name", target: "hamdi", status: "301" }
+        - { source: "source_route_name", target: "target_route_name", status: "301" }
         
 ```
 ## Parameters options:
