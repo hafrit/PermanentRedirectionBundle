@@ -13,7 +13,7 @@ This bundle enable you to create infinite number of redirection without using co
 ```
 "require" :  {
     // ...
-    "hafrit/PermanentRedirectionBundle":"dev-master",
+    "hafrit/permanent-redirection-bundle": "dev-master",
 }
 ```
 
