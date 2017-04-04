@@ -3,7 +3,6 @@
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/5311cf99-0721-49de-887e-1b530451c650/mini.png)](https://insight.sensiolabs.com/projects/5311cf99-0721-49de-887e-1b530451c650)
 [![Total Downloads](https://poser.pugx.org/hafrit/permanent-redirection-bundle/downloads)](https://packagist.org/packages/hafrit/permanent-redirection-bundle)
 [![Latest Stable Version](https://poser.pugx.org/hafrit/permanent-redirection-bundle/v/stable)](https://packagist.org/packages/hafrit/permanent-redirection-bundle)
-[![Latest Unstable Version](https://poser.pugx.org/hafrit/permanent-redirection-bundle/v/unstable)](https://packagist.org/packages/hafrit/permanent-redirection-bundle)
 [![License](https://poser.pugx.org/hafrit/permanent-redirection-bundle/license)](https://packagist.org/packages/hafrit/permanent-redirection-bundle)
 
 This bundle enable you to create infinite number of redirection without using code.
