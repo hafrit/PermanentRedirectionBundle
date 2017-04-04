@@ -72,7 +72,7 @@ hafrit_permanent_redirection:
         target:         ~ # Required                # target route name,
         status:         ~ # Required                # redirection status (301, 302, ...) @see Symfony\Component\HttpFoundation\Response.php isRedirect function         
         referenceType:  ~ # Optional Default 1      # @see Symfony\Component\Routing\Generator\UrlGeneratorInterface.php,             
-        keepParameters: ~ # Optional Default false  # redirect to target route with the same source route route parameters
+        keepParameters: ~ # Optional Default false  # redirect to target route with the same source route parameters
         }
 
 ```
