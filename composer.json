@@ -1,7 +1,7 @@
 {
     "name": "hafrit/permanent-redirection-bundle",
     "description": "A symfony bundle that enable you to create redirections from configuration yml file.",
-    "keywords": ["redirection", "redirect", "permanent", "bundle", "symfony2 redirection", "redirection symfony2", "redirect symfony2", "302", "301", "hafrit"],
+    "keywords": ["redirection", "redirect", "permanent", "bundle", "symfony redirection", "redirection symfony", "redirect symfony", "302", "301", "hafrit"],
     "authors": [
         {
             "name": "hafrit",
