@@ -43,9 +43,6 @@ class RouteListener
         if ($this->container->getParameter('hafrit_permanent_redirection.enable')) {
             return $this->checkExistRedirection($event, $request);
         }
-
-        // All route parameters including the `_controller`
-        //$params      = $request->attributes->get('_route_params');
     }
 
     /**
